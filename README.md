@@ -1,6 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
+```
 Name : S.VENGADA KRISHNAN
+
 Roll no : 212223110061
+```
 Date of experiment : 22.05.2025
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
